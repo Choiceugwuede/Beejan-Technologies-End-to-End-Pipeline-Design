@@ -53,11 +53,13 @@ Proceesed data in the warehouse will be available to query using SQL
 - Failure Handling: Logs to trace errors, notifications for failed pipelines of data quality checks (e.g sudden drop in volume, missing fields).
 
 ## Dataops Consideration
-Pipelines will run on a cloud platform for scalability, efficiency, and minimal downtime.
-
-### Production Readiness:
-- Continous integration and automated deployments
+To ensure Pipeline runs efficiently, production ready and with minial downtime, the following setup would be added: 
+- CI /CD - Continous integration and Continous deployments
+- Versioning Control - so changes in schema or code don't break.
 - Security controls
-    - Role-based access (teams only see what they should)
-    - Maksing/ encryption for sensistive data (e.g phone numbers)
-- Version Control for reproducibility 
+     - Principle of least access to protect pipeline integrity
+     - Role-based access on data warehouse (teams only see what they should)   
+- Monitoring & alerting
+- Scalability - Cloud Infra setup to handle sspikes in data.
+- Security & Compliance - Encryption, masking sensitive informations (e.g phone numbers etc)
+
