@@ -1,7 +1,7 @@
 # Beejan Technologies End-to-End Pipeline Design for Complaints Resolution.
 
 ## Problem Statement
-Beejan Technologies, a telecom company, receives complaints from multiple chaneels inclusing social media, call center log files, SMS, and website forms. Currently, the data is stored in silos managed by different teams, leading to inconsistent reports and decrease in productivity.
+Beejan Technologies, a telecom company, receives complaints from multiple channels including social media, call center log files, SMS, and website forms. Currently, the data is stored in silos managed by different teams, leading to inconsistent reports and decrease in productivity.
 
 ## Goal of Solution
 - Create a unified view of data from all source.
