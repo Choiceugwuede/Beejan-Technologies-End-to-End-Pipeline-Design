@@ -41,7 +41,7 @@ Complaints are grouped into buckets for clarity:
 
 
 ## Serving Layer
-Proceesed data in the warehouse will be available to query using SQL
+Processed data in the warehouse will be available to query using SQL
 
 ### Use Cases
 - Operations teams: Monitor spikes in compliants for faster engagements, trigger real-time alerts.
