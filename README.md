@@ -9,7 +9,9 @@ Beejan Technologies, a telecom company, receives complaints from multiple channe
 
 
 ## Design Scope
-The overall concept of the pipeline would be an ETL approach. Extract, Transform and Load.
+
+![Untitled Diagram](https://github.com/user-attachments/assets/8857e92d-6e7c-48dd-9044-6a8db530e72d)
+
 
 
 ### Data Sources 
