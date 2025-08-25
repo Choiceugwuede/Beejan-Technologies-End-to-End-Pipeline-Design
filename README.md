@@ -10,7 +10,8 @@ Beejan Technologies, a telecom company, receives complaints from multiple channe
 
 ## Design Scope
 
-![Untitled Diagram](https://github.com/user-attachments/assets/8857e92d-6e7c-48dd-9044-6a8db530e72d)
+![Untitled Diagram (1)](https://github.com/user-attachments/assets/2584b1c5-7a80-4604-b71e-adfc46e5d855)
+
 
 
 
