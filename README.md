@@ -53,7 +53,7 @@ Processed data in the warehouse will be available to query using SQL
 - Failure Handling: Logs to trace errors, notifications for failed pipelines of data quality checks (e.g sudden drop in volume, missing fields).
 
 ## Dataops Consideration
-To ensure Pipeline runs efficiently, production ready and with minial downtime, the following setup would be added: 
+To ensure Pipeline runs efficiently, production ready and with minimal downtime, the following setup would be added: 
 - CI /CD - Continous integration and Continous deployments
 - Versioning Control - so changes in schema or code don't break.
 - Security controls
